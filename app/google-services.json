@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223495221769",
+    "project_id": "realtimedoc-69243",
+    "storage_bucket": "realtimedoc-69243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223495221769:android:0442d276b51b9ff5cd3ed8",
+        "android_client_info": {
+          "package_name": "com.example.realtimedoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223495221769-sc89saqrjln8dk36gd2900iug5qbh82j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTh7dO8FblLwZePTp-tCMwYImtoPepgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223495221769-sc89saqrjln8dk36gd2900iug5qbh82j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
