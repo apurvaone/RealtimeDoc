@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
         myref.addValueEventListener(object :ValueEventListener{
             override fun onDataChange(snapshot: DataSnapshot) {
                 val value= snapshot.value
+                textView.text= value.toString()
+
 
             }
 
